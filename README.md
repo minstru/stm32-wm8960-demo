@@ -1,2 +1,2 @@
-# expansion-card
-various expansion card for fun
+# expansion-cards
+various expansion cards for fun
